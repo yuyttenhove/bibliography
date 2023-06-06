@@ -274,4 +274,40 @@
   publisher = {Association for Computing Machinery ({ACM})},
 }
 
+@Misc{Schaller2023,
+  author    = {Schaller, Matthieu and Borrow, Josh and Draper, Peter W. and Ivkovic, Mladen and McAlpine, Stuart and Vandenbroucke, Bert and Bahé, Yannick and Chaikin, Evgenii and Chalk, Aidan B. G. and Chan, Tsang Keung and Correa, Camila and van Daalen, Marcel and Elbers, Willem and Gonnet, Pedro and Hausammann, Loïc and Helly, John and Huško, Filip and Kegerreis, Jacob A. and Nobels, Folkert S. J. and Ploeckinger, Sylvia and Revaz, Yves and Roper, William J. and Ruiz-Bonilla, Sergio and Sandnes, Thomas D. and Uyttenhove, Yolan and Willis, James S. and Xiang, Zhen},
+  title     = {Swift: A modern highly-parallel gravity and smoothed particle hydrodynamics solver for astrophysical and cosmological applications},
+  year      = {2023},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  doi       = {10.48550/ARXIV.2305.13380},
+  keywords  = {Instrumentation and Methods for Astrophysics (astro-ph.IM), Cosmology and Nongalactic Astrophysics (astro-ph.CO), Earth and Planetary Astrophysics (astro-ph.EP), Astrophysics of Galaxies (astro-ph.GA), Distributed, Parallel, and Cluster Computing (cs.DC), FOS: Physical sciences, FOS: Physical sciences, FOS: Computer and information sciences, FOS: Computer and information sciences},
+  publisher = {arXiv},
+}
+
+@Article{Whitehurst1995,
+  author    = {Robert Whitehurst},
+  journal   = {Monthly Notices of the Royal Astronomical Society},
+  title     = {A free Lagrange method for gas dynamics},
+  year      = {1995},
+  month     = {nov},
+  number    = {2},
+  pages     = {655--680},
+  volume    = {277},
+  doi       = {10.1093/mnras/277.2.655},
+  publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Monaghan1997,
+  author    = {J.J. Monaghan},
+  journal   = {Journal of Computational Physics},
+  title     = {{SPH} and Riemann Solvers},
+  year      = {1997},
+  month     = {sep},
+  number    = {2},
+  pages     = {298--307},
+  volume    = {136},
+  doi       = {10.1006/jcph.1997.5732},
+  publisher = {Elsevier {BV}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
